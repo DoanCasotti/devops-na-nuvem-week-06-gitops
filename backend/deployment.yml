@@ -4,6 +4,7 @@ metadata:
   name: backend
   labels:
     app: backend
+    version: argocd-continuous-deployment
 spec:
   replicas: 1
   selector:
