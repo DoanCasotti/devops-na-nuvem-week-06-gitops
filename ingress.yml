@@ -5,9 +5,9 @@ metadata:
   annotations:
     alb.ingress.kubernetes.io/load-balancer-name: devops-na-nuvem-week
     alb.ingress.kubernetes.io/scheme: internet-facing
-    alb.ingress.kubernetes.io/subnets: subnet-0d95dcd17871d1f3d,subnet-0565cd966a81bccc3
+    alb.ingress.kubernetes.io/subnets: subnet-0aae26405f9ae8cac,subnet-0786d0848701a0d64
     alb.ingress.kubernetes.io/listen-ports: '[{"HTTPS":443}]'
-    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:us-east-1:654654554686:certificate/29e95cf2-c49d-4762-a701-9aec54bbd52d
+    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:us-east-1:654654554686:certificate/753809fc-467d-4df3-b269-6d005e7b7edc
 spec:
   ingressClassName: alb
   rules:
