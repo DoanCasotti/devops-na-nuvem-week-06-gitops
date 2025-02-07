@@ -11,7 +11,7 @@ resources:
 images:
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/devops-na-nuvem-week/production/backend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/devops-na-nuvem-week/production/backend
-  newTag: 9d83080f1fc9fb65cfabcfee8d3bbed8679f1546
+  newTag: 991093af5a00294822e280383f74dab2d03b62fb
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/devops-na-nuvem-week/production/frontend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/devops-na-nuvem-week/production/frontend
   newTag: 9d83080f1fc9fb65cfabcfee8d3bbed8679f1546
